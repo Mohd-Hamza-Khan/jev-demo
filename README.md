@@ -24,7 +24,7 @@ A topic's rating is kept only when the mention probability is at least `0.5`. Ra
 ## Setup
 
 ```bash
-pip install python-dotenv typesafe-sdk
+pip install -r requirements.txt
 ```
 
 Create a `.env` file in the project root:
