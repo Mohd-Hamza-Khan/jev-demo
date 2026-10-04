@@ -1,0 +1,2 @@
+dotenv
+typesafe_sdk
